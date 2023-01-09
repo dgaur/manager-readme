@@ -18,6 +18,10 @@ realizing those goals. For the same reason, I also try to act as the lightning
 rod + general whipping-boy
 for our team, in order to shield everyone else from those distractions.
 
+I'll typically stay out of most deep technical arguments at this point and
+defer to the team's expertise instead.  My place is to create an environment
+where the team can be successful, not to dictate technical decisions.
+
 At a high-level, I want our team to be awesome; for everyone on the team to
 feel challenged, productive, engaged and happy; and I'm willing to take on the
 dreary chores and scutwork to make all that happen.
@@ -86,8 +90,9 @@ we have and then move ahead.  Never wait on me or my input.
 - **Quality**.  A high quality bar is important to me personally.  I expect us
 to take our internal quality and internal process
 seriously; and I prefer fixing issues
-over deferring or punting them.  No broken windows.  The hard problems can be fun to fix; but the little ankle-biters are just annoying
-and slow us down as a team.  Let's fix those little issues once, not repeatedly.
+over deferring or punting them.  No [broken windows](https://www.artima.com/articles/dont-live-with-broken-windows).  The hard problems can be fun to fix; but the little ankle-biters are just annoying
+and slow us down as a team.  Let's fix those little issues once, not workaround
+them repeatedly.
 - **Ownership**.  I expect us to own our own problems + solutions.  If there's
 a bug in our code
 or one of our components, I expect us to fix it in a timely fashion.  For this
